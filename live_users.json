@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "email": "vamsidevarapalli2003@gmail.com",
+    "username": "vamsi163",
+    "first_name": "Vamsi",
+    "last_name": "Devarapalli",
+    "is_active": true,
+    "role": "admin",
+    "phone_number": "9182644620"
+  },
+  {
+    "id": 2,
+    "email": "test",
+    "username": "test123",
+    "first_name": "test",
+    "last_name": "123",
+    "is_active": true,
+    "role": "sde",
+    "phone_number": "123456789"
+  },
+  {
+    "id": 3,
+    "email": "vinay@gmail.com",
+    "username": "vinay123",
+    "first_name": "vinay",
+    "last_name": "ch",
+    "is_active": true,
+    "role": "admin",
+    "phone_number": "1234567890"
+  },
+  {
+    "id": 4,
+    "email": "uttidhanunjayahcv,jkgvj,vfj,ufcj,@guikh.hnl.com",
+    "username": "dhanu",
+    "first_name": "dhanu",
+    "last_name": "dhanu",
+    "is_active": true,
+    "role": "dhanu",
+    "phone_number": "dhanu"
+  },
+  {
+    "id": 7,
+    "email": "utti@gmail.com",
+    "username": "utti123",
+    "first_name": "utti",
+    "last_name": "dhannu",
+    "is_active": true,
+    "role": "dataa",
+    "phone_number": "9876543210"
+  },
+  {
+    "id": 8,
+    "email": "11111sddd@mail.com",
+    "username": "rde75ytr7ig",
+    "first_name": "sadsfhj",
+    "last_name": "fuyk5teri7utyruyi",
+    "is_active": true,
+    "role": "hgfdytlu",
+    "phone_number": "9876543235"
+  }
+]
